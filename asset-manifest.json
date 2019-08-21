@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mr-texas-bbq/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mr-texas-bbq/static/js/main.01cb61d8.chunk.js",
+    "main.js.map": "/mr-texas-bbq/static/js/main.01cb61d8.chunk.js.map",
+    "runtime~main.js": "/mr-texas-bbq/static/js/runtime~main.06dd4f2a.js",
+    "runtime~main.js.map": "/mr-texas-bbq/static/js/runtime~main.06dd4f2a.js.map",
+    "static/js/2.db518d06.chunk.js": "/mr-texas-bbq/static/js/2.db518d06.chunk.js",
+    "static/js/2.db518d06.chunk.js.map": "/mr-texas-bbq/static/js/2.db518d06.chunk.js.map",
+    "index.html": "/mr-texas-bbq/index.html",
+    "precache-manifest.43e873262fbd0aae42da2c3168815113.js": "/mr-texas-bbq/precache-manifest.43e873262fbd0aae42da2c3168815113.js",
+    "service-worker.js": "/mr-texas-bbq/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mr-texas-bbq/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mr-texas-bbq/static/media/logo.5d5d9eef.svg"
+  }
+}
