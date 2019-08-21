@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a357f13157c18c44ed5738734bc89c0",
+    "revision": "ef6710939243c816b8051287dc6aa057",
     "url": "/mr-texas-bbq/index.html"
   },
   {
-    "revision": "07ac2f3452e006560f4e",
+    "revision": "45b177210d9f62b27881",
     "url": "/mr-texas-bbq/static/css/main.a1b2b77f.chunk.css"
   },
   {
-    "revision": "b6fdf70cc3598aa690da",
-    "url": "/mr-texas-bbq/static/js/2.7408d075.chunk.js"
+    "revision": "6f09937c42fbc8d892cb",
+    "url": "/mr-texas-bbq/static/js/2.ff490977.chunk.js"
   },
   {
-    "revision": "07ac2f3452e006560f4e",
-    "url": "/mr-texas-bbq/static/js/main.04621ced.chunk.js"
+    "revision": "45b177210d9f62b27881",
+    "url": "/mr-texas-bbq/static/js/main.9d46032b.chunk.js"
   },
   {
     "revision": "9b5032ecfd2ca62fc38b",

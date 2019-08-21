@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mr-texas-bbq/precache-manifest.83b0c9fe451e2373f45ccd6694585fbb.js"
+  "/mr-texas-bbq/precache-manifest.bc44ba8517d32ba344af80a84372ccca.js"
 );
 
 self.addEventListener('message', (event) => {
