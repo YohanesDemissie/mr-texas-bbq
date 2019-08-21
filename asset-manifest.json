@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/mr-texas-bbq/static/css/main.2cce8147.chunk.css",
-    "main.js": "/mr-texas-bbq/static/js/main.01cb61d8.chunk.js",
-    "main.js.map": "/mr-texas-bbq/static/js/main.01cb61d8.chunk.js.map",
+    "main.css": "/mr-texas-bbq/static/css/main.a1b2b77f.chunk.css",
+    "main.js": "/mr-texas-bbq/static/js/main.04621ced.chunk.js",
+    "main.js.map": "/mr-texas-bbq/static/js/main.04621ced.chunk.js.map",
     "runtime~main.js": "/mr-texas-bbq/static/js/runtime~main.06dd4f2a.js",
     "runtime~main.js.map": "/mr-texas-bbq/static/js/runtime~main.06dd4f2a.js.map",
-    "static/js/2.db518d06.chunk.js": "/mr-texas-bbq/static/js/2.db518d06.chunk.js",
-    "static/js/2.db518d06.chunk.js.map": "/mr-texas-bbq/static/js/2.db518d06.chunk.js.map",
+    "static/js/2.7408d075.chunk.js": "/mr-texas-bbq/static/js/2.7408d075.chunk.js",
+    "static/js/2.7408d075.chunk.js.map": "/mr-texas-bbq/static/js/2.7408d075.chunk.js.map",
     "index.html": "/mr-texas-bbq/index.html",
-    "precache-manifest.43e873262fbd0aae42da2c3168815113.js": "/mr-texas-bbq/precache-manifest.43e873262fbd0aae42da2c3168815113.js",
+    "precache-manifest.83b0c9fe451e2373f45ccd6694585fbb.js": "/mr-texas-bbq/precache-manifest.83b0c9fe451e2373f45ccd6694585fbb.js",
     "service-worker.js": "/mr-texas-bbq/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/mr-texas-bbq/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/mr-texas-bbq/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a1b2b77f.chunk.css.map": "/mr-texas-bbq/static/css/main.a1b2b77f.chunk.css.map",
+    "static/media/Mr-Texas-Smokehouse.png": "/mr-texas-bbq/static/media/Mr-Texas-Smokehouse.bbe30e94.png",
+    "static/media/Home.css": "/mr-texas-bbq/static/media/bundle-one.931e7fa6.png",
+    "static/media/bbqredbeans.png": "/mr-texas-bbq/static/media/bbqredbeans.bd011350.png",
+    "static/media/bold-beef.png": "/mr-texas-bbq/static/media/bold-beef.550336b0.png",
+    "static/media/bundle-two.png": "/mr-texas-bbq/static/media/bundle-two.04eed90f.png",
+    "static/media/royal-pork.png": "/mr-texas-bbq/static/media/royal-pork.8803c6b4.png",
+    "static/media/savory-poultry.png": "/mr-texas-bbq/static/media/savory-poultry.a321a379.png"
   }
 }
